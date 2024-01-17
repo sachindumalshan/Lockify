@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 setMasterPassword(){
-    printf("setMasterPassword()\n");
+
     printf("\n");
 }
 
